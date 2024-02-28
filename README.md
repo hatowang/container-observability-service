@@ -28,7 +28,10 @@ Lunettes calculates the time taken by the infrastructure to attempt to deliver a
 
 Lunettes' definition of the container delivery SLI/SLO enables service owners to evaluate and improve the quality of the platform's resource delivery process in a digitalized manner.
 
-![ContainerDeliverySli/Slo](./statics/deliveryslo.png)
+[//]: # (![ContainerDeliverySli/Slo]&#40;./statics/deliveryslo.png&#41;)
+<a href="./statics/deliveryslo.png" target="_blank">
+<img src="./statics/deliveryslo.png" alt="alt text" width="800">
+</a>
 ### Container Lifecycle Diagnose Service
 To identify the root cause of any issues, Lunettes analyzes observability signals throughout the container lifecycle and assigns an error code that covers common problems such as excessive resource consumption error, configuration errors, etc.
 
